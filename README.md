@@ -1,92 +1,91 @@
-# Swiggy_Data_Analytics
+Swiggy_Data_Analytics
+1. Project Title / Headline
 
-## 1. Project Title / Headline
+Swiggy Sales Analytics: Customer Behavior & Revenue Insights Dashboard (Excel)
 
-    Swiggy Data Analysis using Excel: Interactive Sales & Customer Insights Dashboard
-    An advanced Excel dashboard built to analyze Swiggy’s sales performance, customer behavior, and regional trends using dynamic charts, slicers, and KPI cards.
+A dynamic Excel dashboard analyzing Swiggy’s sales performance, customer ratings, and order behavior across different cities, states, and time periods.
 
-## 2. Short Description / Purpose
+2. Short Description / Purpose
 
-   This project uses Microsoft Excel to transform raw food delivery data into meaningful insights through interactive visualizations.
-   The dashboard helps in understanding:
+This dashboard provides a complete analysis of Swiggy’s food delivery data, highlighting key business metrics such as total sales, average ratings, and order volume.
 
- Sales trends across different time periods
-Customer satisfaction through ratings
-Performance of food categories (Veg vs Non-Veg)
-Regional contribution to overall revenue
+It tracks sales trends (daily, weekly, monthly), compares Veg vs Non-Veg performance, and identifies top-performing cities and states.
 
-It is designed for business users who rely on Excel for quick and effective decision-making.
+Designed for business analysts and decision-makers, it helps in understanding customer preferences and optimizing operational strategies.
 
 3. Tech Stack
 
-The dashboard was built using:
+The dashboard was built using the following tools and technologies:
 
-📊 Microsoft Excel – Core tool for dashboard creation
-📈 Pivot Tables – For summarizing large datasets
-📉 Pivot Charts – For dynamic visualizations
-🎛️ Slicers & Filters – For interactivity (Month, Category, Restaurant)
-🧮 Excel Formulas – For KPI calculations (Sales, AOV, Ratings)
-🎨 Dashboard Design – Custom layout, icons, and formatting
+📊 Microsoft Excel – Core platform for dashboard creation
+
+📈 Pivot Tables & Pivot Charts – For summarizing and visualizing data
+
+🎛️ Slicers & Filters – For interactive dashboard experience (Month, Category, Restaurant)
+
+🧮 Excel Formulas – For KPI calculations (Sales, AOV, Ratings, Orders)
+
+🎨 Dashboard Design – Custom layout, icons, and formatting for better UI
+
 4. Data Source
 
-The dataset includes Swiggy order data such as:
+The dataset consists of Swiggy food delivery data, including order details, sales values, customer ratings, and category-wise information.
 
-Order dates (daily, weekly, monthly)
-Sales amount (₹)
-Customer ratings and reviews
-Food categories (Veg / Non-Veg)
-City and state-level distribution
+It includes city-level and state-level data to analyze regional performance, along with time-based data for trend analysis.
+
 5. Features / Highlights
-🔶 Business Problem
+Business Problem
 
-Food delivery businesses generate large amounts of data, but decision-making becomes difficult without structured insights.
+Food delivery platforms generate large volumes of data, but extracting actionable insights is challenging.
 
-Key challenges include:
+Key questions include:
 
-Identifying peak sales periods
-Understanding customer preferences
-Tracking regional performance
-Monitoring customer satisfaction
-🎯 Goal of the Dashboard
+When do sales peak or decline?
+Which category (Veg/Non-Veg) drives more revenue?
+Which locations contribute the most sales?
+How do customer ratings impact overall performance?
 
-To create a user-friendly Excel dashboard that:
+Without a structured dashboard, these insights are difficult to analyze efficiently.
 
-Tracks important business KPIs
-Provides interactive filtering using slicers
-Visualizes trends across time and regions
-Helps stakeholders make quick, data-driven decisions
-📊 Key KPIs
-Total Sales (₹ 3.94M) – Total revenue generated
-Average Rating (4.34) – Customer satisfaction score
-Total Orders (15.29K) – Number of orders
-Average Order Value (₹ 257.76) – Revenue per order
-Ratings Count (0.53M) – Total reviews
-📈 Dashboard Visuals
-Monthly Sales Trend
-Shows how sales fluctuate month by month
-Daily Sales Trend
-Highlights which days generate higher revenue
-Weekly Sales Trend
-Helps identify consistency and peak demand
-Sales by Food Type
-Compares revenue from Veg vs Non-Veg
-Sales by State (Map Chart)
-Displays geographical performance across India
-Top Cities by Sales
-Shows highest contributing cities
-Quarterly Performance Summary
-Combines Sales, Ratings, and Orders for comparison
-6. Business Impact & Insights
-📌 Revenue Insight
-Sales show consistent performance with slight fluctuations across months
-📌 Customer Behavior
-High average rating (4.34) indicates strong customer satisfaction
-📌 Category Insight
-Non-Veg category contributes more to total revenue
-📌 Regional Insight
-Certain states and cities dominate sales performance
-📌 Decision Making
-Helps businesses optimize operations, marketing, and delivery strategy
-7. Screenshots / Demo
+## Goal of the Dashboard
 
-🔗 Add your dashboard image link here
+To create an interactive Excel dashboard that:
+
+Tracks key performance indicators (KPIs)
+Visualizes sales trends across multiple time periods
+Identifies top-performing regions and categories
+Enables quick and data-driven decision-making
+
+## Walkthrough of Key Visuals
+* ### Top KPIs (Top Panel):
+
+* Total Sales: ₹3.94M
+* Average Rating: 4.34
+* Total Orders: 15.29K
+* Average Order Value: ₹257.76
+* Ratings Count: 0.53M
+
+* ### Charts & Visuals:
+
+- Monthly Sales Trend – Shows revenue fluctuations over months
+- Daily Sales Trend – Highlights weekday-wise performance
+- Weekly Sales Trend – Identifies consistency and peak demand
+- Sales by Food Type – Compares Veg vs Non-Veg contribution
+- Sales by State (Map) – Displays regional revenue distribution
+- Top Cities by Sales – Identifies highest contributing cities
+- Quarterly Summary Table – Combines Sales, Ratings, and Orders
+
+## Business Impact & Insights
+
+📌 Sales Trend Analysis: Helps identify peak and low-performing periods
+
+📌 Customer Behavior Insight: High average rating (4.34) indicates strong satisfaction
+
+📌 Category Performance: Non-Veg contributes a higher share of total revenue
+
+📌 Regional Insight: Certain states and cities dominate overall sales
+
+📌 Decision Making: Supports better planning in marketing, operations, and delivery optimization
+
+6. Screenshots / Demos
+    https://github.com/Ananya18-23/Swiggy_Data_Analytics/blob/main/Dashboard.png
