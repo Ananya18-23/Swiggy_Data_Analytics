@@ -1,19 +1,18 @@
-Swiggy_Data_Analytics
-1. Project Title / Headline
+# Swiggy_Data_Analytics
+### 1. Project Title / Headline
 
 Swiggy Sales Analytics: Customer Behavior & Revenue Insights Dashboard (Excel)
+A dynamic Excel dashboard analyzing Swiggy’s sales performance, customer ratings, and order behavior
+across different cities, states, and time periods.
 
-A dynamic Excel dashboard analyzing Swiggy’s sales performance, customer ratings, and order behavior across different cities, states, and time periods.
+### 2. Short Description / Purpose
 
-2. Short Description / Purpose
-
-This dashboard provides a complete analysis of Swiggy’s food delivery data, highlighting key business metrics such as total sales, average ratings, and order volume.
-
+This dashboard provides a complete analysis of Swiggy’s food delivery data, highlighting key business
+metrics such as total sales, average ratings, and order volume.
 It tracks sales trends (daily, weekly, monthly), compares Veg vs Non-Veg performance, and identifies top-performing cities and states.
-
 Designed for business analysts and decision-makers, it helps in understanding customer preferences and optimizing operational strategies.
 
-3. Tech Stack
+### 3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -27,37 +26,35 @@ The dashboard was built using the following tools and technologies:
 
 🎨 Dashboard Design – Custom layout, icons, and formatting for better UI
 
-4. Data Source
+### 4. Data Source
 
 The dataset consists of Swiggy food delivery data, including order details, sales values, customer ratings, and category-wise information.
-
 It includes city-level and state-level data to analyze regional performance, along with time-based data for trend analysis.
 
-5. Features / Highlights
+### 5. Features / Highlights
 Business Problem
 
 Food delivery platforms generate large volumes of data, but extracting actionable insights is challenging.
-
 Key questions include:
 
-When do sales peak or decline?
-Which category (Veg/Non-Veg) drives more revenue?
-Which locations contribute the most sales?
-How do customer ratings impact overall performance?
+- When do sales peak or decline?
+- Which category (Veg/Non-Veg) drives more revenue?
+- Which locations contribute the most sales?
+- How do customer ratings impact overall performance?
 
 Without a structured dashboard, these insights are difficult to analyze efficiently.
 
-## Goal of the Dashboard
+### Goal of the Dashboard
 
 To create an interactive Excel dashboard that:
 
-Tracks key performance indicators (KPIs)
-Visualizes sales trends across multiple time periods
-Identifies top-performing regions and categories
-Enables quick and data-driven decision-making
+- Tracks key performance indicators (KPIs)
+- Visualizes sales trends across multiple time periods
+- Identifies top-performing regions and categories
+- Enables quick and data-driven decision-making
 
-## Walkthrough of Key Visuals
-* ### Top KPIs (Top Panel):
+### Walkthrough of Key Visuals
+#### Top KPIs (Top Panel):
 
 * Total Sales: ₹3.94M
 * Average Rating: 4.34
@@ -65,7 +62,7 @@ Enables quick and data-driven decision-making
 * Average Order Value: ₹257.76
 * Ratings Count: 0.53M
 
-* ### Charts & Visuals:
+#### Charts & Visuals:
 
 - Monthly Sales Trend – Shows revenue fluctuations over months
 - Daily Sales Trend – Highlights weekday-wise performance
@@ -75,7 +72,7 @@ Enables quick and data-driven decision-making
 - Top Cities by Sales – Identifies highest contributing cities
 - Quarterly Summary Table – Combines Sales, Ratings, and Orders
 
-## Business Impact & Insights
+### Business Impact & Insights
 
 📌 Sales Trend Analysis: Helps identify peak and low-performing periods
 
@@ -87,5 +84,6 @@ Enables quick and data-driven decision-making
 
 📌 Decision Making: Supports better planning in marketing, operations, and delivery optimization
 
-6. Screenshots / Demos
-    https://github.com/Ananya18-23/Swiggy_Data_Analytics/blob/main/Dashboard.png
+### 6. Screenshots / Demos
+
+https://github.com/Ananya18-23/Swiggy_Data_Analytics/blob/main/Dashboard.png
