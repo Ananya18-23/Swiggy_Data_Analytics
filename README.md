@@ -1,4 +1,4 @@
-# Swiggy_Data_Analytics
+# Swiggy-Data-Analytics
 ### 1. Project Title / Headline
 
 Swiggy Sales Analytics: Customer Behavior & Revenue Insights Dashboard (Excel)
